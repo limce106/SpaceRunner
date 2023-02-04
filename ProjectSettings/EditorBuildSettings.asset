@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: b0913745a85de1949adf9d70800db293
+  - enabled: 1
+    path: Assets/Scenes/Talk1.unity
+    guid: a6a9c79d7962d76489b36edb9bee9ff7
+  - enabled: 1
+    path: Assets/Scenes/Planets.unity
+    guid: 31cb50908ea60ff498f878558a0f07fc
+  - enabled: 1
+    path: Assets/Scenes/Roulette.unity
+    guid: f707f88acb16cc54aae617de40f3a669
+  - enabled: 1
+    path: Assets/Scenes/Maps/Pluto.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Maps/Uranus.unity
+    guid: c1e13605d248aa94a92b61e781bb5ceb
+  - enabled: 1
+    path: Assets/Scenes/Maps/Neptune.unity
+    guid: 4848a5c1c266014419a1d95e728ccae3
+  - enabled: 1
+    path: Assets/Scenes/Maps/Saturn.unity
+    guid: f7f453d34f00f504fbf4a9e2a7dedf84
+  - enabled: 1
+    path: Assets/Scenes/Maps/Jupiter.unity
+    guid: 06f128febd505c44b8d828050e41680b
+  - enabled: 1
+    path: Assets/Scenes/Maps/Mars.unity
+    guid: 75e511a876f486e448ca71a8a65815da
+  - enabled: 1
+    path: Assets/Scenes/Talk2.unity
+    guid: 109348e32a0b6a746b720432f956c435
+  - enabled: 1
+    path: Assets/Scenes/GameClear.unity
+    guid: c968497d3b9f00242b383ef6a1225e0b
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 12c5e633ec6c4d54e8f55a20fd909cf4
+  m_configObjects: {}
